@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78410365036",
+    "firebase_url": "https://sh-authentication-default-rtdb.firebaseio.com",
+    "project_id": "sh-authentication",
+    "storage_bucket": "sh-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78410365036:android:24718d44c612e2908cc049",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78410365036-f00uhbrialmckjk3doars98pbfrnetfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo7kYcDtP5Ur9HNhEMp7DAGvF_1E0S9cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78410365036-f00uhbrialmckjk3doars98pbfrnetfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
